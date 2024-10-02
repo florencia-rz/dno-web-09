@@ -1,7 +1,7 @@
 [
     {
         "nombre": "Joyería textil",
-        "descripcion": "Trabajo realizado en el curso Imagen Textil. Este proyecto fue entregado para el examen del ramo y consistió en una colección de joyería textil hecha a partir de la deshidratación de cítricos",
+        "descripcion": "Trabajo realizado en el curso Imagen Textil. Este proyecto fue entregado para el examen del ramo y consistió en una colección de joyería textil hecha a partir de la deshidratación de cítricos.",
         "fecha": "2024",
         "signo": "textil",
         "foto": "https://github.com/user-attachments/assets/c79ff2a4-244b-4990-b0ca-9dc43ce01d00",
@@ -33,7 +33,7 @@
     },
     {
         "nombre": "Exposición fotográfica",
-        "descripcion": "Se diseñó la exposición de manera minimalista para darle protagonismo a las dos colecciones de fotografías que se exhibieron: Flores de Luz y Flores Cortadas",
+        "descripcion": "Se diseñó la exposición de manera minimalista para darle protagonismo a las dos colecciones de fotografías que se exhibieron: Flores de Luz y Flores Cortadas.",
         "fecha": "2023",
         "signo": "fotografia",
         "foto": "https://github.com/user-attachments/assets/f4f0706b-bfef-4f85-978f-1cccd50539a7",
@@ -65,7 +65,7 @@
     },
     {
         "nombre": "Pósters fotográficos",
-        "descripcion": "Los pósters muestran el conjunto de personas en la ciudad, lo que a su vez implica movimiento y velocidad de la vida citadina. Algunas de estas fotografías obtuvieron mención honrosa en el concurso de Giphantie en su versión 2022. ",
+        "descripcion": "Los pósters muestran el conjunto de personas en la ciudad, lo que a su vez implica movimiento y velocidad de la vida citadina. Algunas de estas fotografías obtuvieron mención honrosa en el concurso de Giphantie en su versión 2022.",
         "fecha": "2022",
         "signo": "fotografia",
         "foto": "https://github.com/user-attachments/assets/0a091e16-d603-45c3-b358-abb92912ba8e",
@@ -81,7 +81,7 @@
     },
     {
         "nombre": "Fundación Mis Talentos",
-        "descripcion": "Merchandising desarrollado para las actividades que lleva a cabo la fundación",
+        "descripcion": "Merchandising desarrollado para las actividades que lleva a cabo la fundación.",
         "fecha": "2021",
         "signo": "branding",
         "foto": "https://github.com/user-attachments/assets/388f25a4-999f-4e13-b5f4-434a51b688ab",
