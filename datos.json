@@ -1,20 +1,16 @@
 [
     {
         "nombre": "Joyería textil",
-        //"descripcion": "frase para describir el trabajo",
         "fecha": "2024",
         "signo": "textil",
         "foto": "https://github.com/user-attachments/assets/c79ff2a4-244b-4990-b0ca-9dc43ce01d00",
-        //"fotos": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz" 
     },
     {
         "nombre": "NYC Creates",
-        //"descripcion": "frase para describir el trabajo",
         "fecha": "2023",
         "signo": "branding",
         "foto": "https://github.com/user-attachments/assets/8e6064cd-e3b4-46f1-99a0-1dfd2e7d87f9",
-        //"fotos": "https://picsum.photos/id/460/900/600",
         "github": "https://github.com/florencia-rz" 
     },
     {
